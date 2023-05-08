@@ -1,0 +1,537 @@
+
+body .menuprincipal{
+    background: #fed0d0;
+    box-sizing: border-box;
+    padding: 0px 60px;
+    
+}
+body .menuprincipal .logo {
+    justify-content: space-between;
+    display: flex;
+    width:100%;
+    color: #000000;
+    border-radius: 5px;
+    align-items: center;
+    
+
+}
+body .menuprincipal .menu{
+    display: none;
+}
+body .menuprincipal .menuitems {
+    align-items: center;
+    display: flex;
+    border: 0;
+    border-radius: 5px;
+    color: #000000;
+
+}
+
+body .menuprincipal .items {
+    display: flex;
+}
+
+body .menuprincipal .menuitems .items p {
+    padding: 8px 25px;
+    color: #000000;
+}
+body .logokity{
+
+    padding: 100px 400px;
+    width: 50px;
+    height: 300px;
+    display: flex;
+
+}
+body .titulo{
+    position: absolute;
+    font-size: 45px;
+    left: 750px;
+    top: 190px;
+    width: 400px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 51px;
+    line-height: 62px;
+}
+body .titulo1{
+    position: absolute;
+    font-size: 25px;
+    left: 850px;
+    top: 270px;
+    width: 200px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 28px;
+    text-align: center;
+}
+body .proyectos{
+    background-color: #fed0d0;
+    position: absolute;
+    height: 1600px;
+    width: 1510px;
+}
+
+body .proyectos > p{
+
+    text-align: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 51px;
+    line-height: 62px;
+}
+body .proyectos .branding img{
+
+    position: absolute;
+    width: 700px;
+    height: 600px;
+    left: 50px;
+    border-radius: 37px;
+}
+body .proyectos .titulobr{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 51px;
+    line-height: 60px;
+    position: absolute;
+    left: 300px;
+    top: 715px;
+}
+body .proyectos .animacion img{
+
+    position: absolute;
+    width: 700px;
+    height: 600px;
+    left: 770px;
+    border-radius: 37px;
+}
+body .proyectos .tituloan{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 51px;
+    line-height: 60px;
+    position: absolute;
+    left: 1000px;
+    top: 715px;
+}
+body .proyectos .ilustracion img{
+
+    position: absolute;
+    width: 1100px;
+    height: 600px;
+    top: 850px;
+    left: 222px;
+    border-radius: 37px;
+}
+body .proyectos .tituloil{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 51px;
+    line-height: 60px;
+    position: absolute;
+    left: 665px;
+    top: 1400px;
+}
+body .footer{
+    background: #ffffff;
+    position: absolute;
+    top: 50px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+body .footer .face img{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 2155px;
+    left: 650px;
+}
+body .footer .twitter img{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 2155px;
+    left: 750px;
+}
+body .footer .insta img{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 2155px;
+    left: 850px;
+}
+
+@media only screen and (max-width: 1366px) {
+    body .menuprincipal{
+        background: #fed0d0;
+        width: 1205px;
+    }
+    body .logokity{
+        padding: 50px 450px;
+        width: 50px;
+        height: 300px;
+        display: flex;
+    }
+    body .titulo{
+        top: 380px;
+        left: 425px;
+    }
+    body .titulo1{
+        top: 470px;
+        left: 500px;
+    }
+    body .proyectos{
+        background-color: #fed0d0;
+        position: absolute;
+        height: 1950px;
+        width: 1200px;
+        top: 580px;
+    }
+    body .proyectos .branding img{
+
+        position: absolute;
+        width: 500px;
+        height: 400px;
+        left: 350px;
+        border-radius: 37px;
+    }
+    body .proyectos .titulobr{
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 51px;
+        line-height: 60px;
+        position: absolute;
+        left: 500px;
+        top: 550px;
+    }
+    body .proyectos .animacion img{
+    
+        position: absolute;
+        width: 500px;
+        height: 400px;
+        left: 350px;
+        top: 700px;
+        border-radius: 37px;
+    }
+    body .proyectos .tituloan{
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 51px;
+        line-height: 60px;
+        position: absolute;
+        left: 490px;
+        top: 1100px;
+    }
+    body .proyectos .ilustracion img{
+    
+        position: absolute;
+        width: 950px;
+        height: 550px;
+        top: 1270px;
+        left: 125px;
+        border-radius: 37px;
+    }
+    body .proyectos .tituloil{
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 51px;
+        line-height: 60px;
+        position: absolute;
+        left: 500px;
+        top: 1800px;
+    }
+    body .footer{
+        background: #ffffff;
+        position: absolute;
+        top: 50px;
+        align-items: center;
+        justify-content: center;
+        flex-direction: row;
+    }
+    body .footer .face img{
+        position: absolute;
+        width: 50px;
+        height: 50px;
+        top: 2500px;
+        left: 500px;
+    }
+    body .footer .twitter img{
+        position: absolute;
+        width: 50px;
+        height: 50px;
+        top: 2500px;
+        left: 600px;
+    }
+    body .footer .insta img{
+        position: absolute;
+        width: 50px;
+        height: 50px;
+        top: 2500px;
+        left: 700px;
+    }
+}
+
+@media only screen and (max-width: 831px) {
+    body .menuprincipal{
+        background: #fed0d0;
+        width: 830px;
+    }
+    body .menuprincipal .menu{
+        display: unset;
+    }
+    body .menuprincipal .menuitems {
+        display: none;    
+    }
+    
+    body .menuprincipal .items {
+        display: none;
+    }
+    
+    body .menuprincipal .menuitems .items p {
+        display: none;
+    }
+    body .logokity{
+        padding: 50px 250px;
+        width: 50px;
+        height: 300px;
+        display: flex;
+    }
+    body .titulo{
+        top: 380px;
+        left: 225px;
+    }
+    body .titulo1{
+        top: 470px;
+        left: 325px;
+    }
+    body .proyectos{
+        background-color: #fed0d0;
+        position: absolute;
+        height: 1950px;
+        width: 830px;
+        top: 580px;
+    }
+    body .proyectos .branding img{
+
+        position: absolute;
+        width: 500px;
+        height: 400px;
+        left: 170px;
+        border-radius: 37px;
+    }
+    body .proyectos .titulobr{
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 51px;
+        line-height: 60px;
+        position: absolute;
+        left: 325px;
+        top: 550px;
+    }
+    body .proyectos .animacion img{
+    
+        position: absolute;
+        width: 500px;
+        height: 400px;
+        left: 175px;
+        top: 700px;
+        border-radius: 37px;
+    }
+    body .proyectos .tituloan{
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 51px;
+        line-height: 60px;
+        position: absolute;
+        left: 320px;
+        top: 1100px;
+    }
+    body .proyectos .ilustracion img{
+    
+        position: absolute;
+        width: 790px;
+        height: 550px;
+        top: 1270px;
+        left: 10px;
+        border-radius: 37px;
+    }
+    body .proyectos .tituloil{
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 51px;
+        line-height: 60px;
+        position: absolute;
+        left: 315px;
+        top: 1800px;
+    }
+    body .footer{
+        background: #ffffff;
+        position: absolute;
+        top: 50px;
+        align-items: center;
+        justify-content: center;
+        flex-direction: row;
+    }
+    body .footer .face img{
+        position: absolute;
+        width: 50px;
+        height: 50px;
+        top: 2500px;
+        left: 300px;
+    }
+    body .footer .twitter img{
+        position: absolute;
+        width: 50px;
+        height: 50px;
+        top: 2500px;
+        left: 390px;
+    }
+    body .footer .insta img{
+        position: absolute;
+        width: 50px;
+        height: 50px;
+        top: 2500px;
+        left: 480px;
+    }
+}
+@media only screen and (max-width: 360px) {
+    body .menuprincipal{
+        background: #fed0d0;
+        width: 360px;
+    }
+    body .menuprincipal .menu{
+        display: unset;
+    }
+    body .menuprincipal .menuitems {
+        display: none;    
+    }
+    
+    body .menuprincipal .items {
+        display: none;
+    }
+    
+    body .menuprincipal .menuitems .items p {
+        display: none;
+    }
+    body .logokity{
+        padding: 50px 15px;
+        width: 50px;
+        height: 300px;
+        display: flex;
+    }
+    body .titulo{
+        top: 380px;
+        left: 65px;
+        font-size: 32px;
+    }
+    body .titulo1{
+        top: 450px;
+        left: 80px;
+    }
+    body .proyectos{
+        background-color: #fed0d0;
+        position: absolute;
+        height: 1200px;
+        width: 360px;
+        top: 580px;
+    }
+    body .proyectos .branding img{
+
+        position: absolute;
+        width: 300px;
+        height: 200px;
+        left: 25px;
+        border-radius: 37px;
+    }
+    body .proyectos .titulobr{
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 51px;
+        line-height: 60px;
+        position: absolute;
+        left: 80px;
+        top: 350px;
+    }
+    body .proyectos .animacion img{
+    
+        position: absolute;
+        width: 300px;
+        height: 200px;
+        left: 25px;
+        top: 500px;
+        border-radius: 37px;
+    }
+    body .proyectos .tituloan{
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 51px;
+        line-height: 60px;
+        position: absolute;
+        left: 60px;
+        top: 680px;
+    }
+    body .proyectos .ilustracion img{
+    
+        position: absolute;
+        width: 330px;
+        height: 200px;
+        top: 830px;
+        left: 10px;
+        border-radius: 37px;
+    }
+    body .proyectos .tituloil{
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 51px;
+        line-height: 60px;
+        position: absolute;
+        left: 60px;
+        top: 1000px;
+    }
+    body .footer{
+        background: #ffffff;
+        position: absolute;
+        top: 50px;
+        align-items: center;
+        justify-content: center;
+        flex-direction: row;
+    }
+    body .footer .face img{
+        position: absolute;
+        width: 50px;
+        height: 50px;
+        top: 1750px;
+        left: 80px;
+    }
+    body .footer .twitter img{
+        position: absolute;
+        width: 50px;
+        height: 50px;
+        top: 1750px;
+        left: 165px;
+    }
+    body .footer .insta img{
+        position: absolute;
+        width: 50px;
+        height: 50px;
+        top: 1750px;
+        left: 250px;
+    }
+}

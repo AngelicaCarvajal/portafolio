@@ -1,0 +1,283 @@
+body .menuprincipal{
+    background: #fed0d0;
+    box-sizing: border-box;
+    padding: 0px 60px;
+    
+}
+body .menuprincipal .logo {
+    justify-content: space-between;
+    display: flex;
+    width:100%;
+    color: #000000;
+    border-radius: 5px;
+    align-items: center;
+    
+
+}
+body .menuprincipal .menu{
+    display: none;
+}
+body .menuprincipal .menuitems {
+    align-items: center;
+    display: flex;
+    border: 0;
+    border-radius: 5px;
+    color: #000000;
+
+}
+
+body .menuprincipal .items {
+    display: flex;
+}
+
+body .menuprincipal .menuitems .items p {
+    padding: 8px 25px;
+    color: #000000;
+}
+
+body .ilustraciones .sakura img{
+    border-radius: 37px;
+    position: absolute;
+    width: 425px;
+    height: 425px;
+    top: 100px;
+    left: 50px;
+}
+body .ilustraciones .bsh img{
+    border-radius: 37px;
+    position: absolute;
+    width: 425px;
+    height: 425px;
+    top: 100px;
+    left: 525px;
+}
+body .ilustraciones .moko img{
+    border-radius: 37px;
+    position: absolute;
+    width: 425px;
+    height: 425px;
+    top: 100px;
+    left: 1000px;
+}
+body .ilustraciones .pez img{
+    border-radius: 150px;
+    position: absolute;
+    width: 900px;
+    height: 600px;
+    top: 570px;
+    left: 50px;
+}
+body .ilustraciones .flor img{
+    border-radius: 37px;
+    position: absolute;
+    width: 425px;
+    height: 425px;
+    top: 650px;
+    left: 1000px;
+}
+body .ilustraciones .love img{
+    border-radius: 50px;
+    position: absolute;
+    top: 1200px;
+    left: 515px;
+}
+
+@media only screen and (max-width: 1366px) {
+    body .menuprincipal{
+        background: #fed0d0;
+        width: 1366px;
+    }
+    body .ilustraciones .sakura img{
+        border-radius: 37px;
+        position: absolute;
+        width: 650px;
+        height: 650px;
+        top: 100px;
+        left: 50px;
+    }
+    body .ilustraciones .bsh img{
+        border-radius: 37px;
+        position: absolute;
+        width: 650px;
+        height: 650px;
+        top: 100px;
+        left: 705px;
+
+    }
+    body .ilustraciones .moko img{
+        border-radius: 37px;
+        position: absolute;
+        width: 650px;
+        height: 650px;
+        top: 760px;
+        left: 50px;
+
+    }
+    body .ilustraciones .pez img{
+        border-radius: 150px;
+        position: absolute;
+        width: 1325px;
+        height: 900px;
+        top: 1420px;
+        left: 50px;
+    }
+    body .ilustraciones .flor img{
+        border-radius: 37px;
+        position: absolute;
+        width: 650px;
+        height: 650px;
+        top: 760px;
+        left: 705px;
+
+    }
+    body .ilustraciones .love img{
+        border-radius: 50px;
+        position: absolute;
+        top: 2400px;
+        left: 335px;
+        width: 850px;
+        height: 650px;
+    }
+    
+}
+@media only screen and (max-width: 831px) {
+    body .menuprincipal{
+        background: #fed0d0;
+        width: 830px;
+    }
+        body .menuprincipal .menu{
+        display: unset;
+    }
+    body .menuprincipal .menuitems {
+        display: none;    
+    }
+    
+    body .menuprincipal .items {
+        display: none;
+    }
+    
+    body .menuprincipal .menuitems .items p {
+        display: none;
+    }
+    body .ilustraciones .sakura img{
+        border-radius: 37px;
+        position: absolute;
+        width: 350px;
+        height: 350px;
+        top: 100px;
+        left: 50px;
+    }
+    body .ilustraciones .bsh img{
+        border-radius: 37px;
+        position: absolute;
+        width: 350px;
+        height: 350px;
+        top: 100px;
+        left: 440px;
+
+    }
+    body .ilustraciones .moko img{
+        border-radius: 37px;
+        position: absolute;
+        width: 350px;
+        height: 350px;
+        top: 500px;
+        left: 50px;
+    }
+    body .ilustraciones .pez img{
+        border-radius: 150px;
+        position: absolute;
+        width: 750px;
+        height: 600px;
+        top: 900px;
+        left: 50px;
+    }
+    body .ilustraciones .flor img{
+        border-radius: 37px;
+        position: absolute;
+        width: 350px;
+        height: 350px;
+        top: 500px;
+        left: 440px;
+
+    }
+    body .ilustraciones .love img{
+        border-radius: 50px;
+        position: absolute;
+        top: 1550px;
+        left: 185px;
+        width: 550px;
+        height: 350px;
+    }
+}
+
+@media only screen and (max-width: 360px) {
+    body .menuprincipal{
+        background: #fed0d0;
+        width: 360px;
+    }
+        body .menuprincipal .menu{
+        display: unset;
+    }
+    body .menuprincipal .menuitems {
+        display: none;    
+    }
+    
+    body .menuprincipal .items {
+        display: none;
+    }
+    
+    body .menuprincipal .menuitems .items p {
+        display: none;
+    }
+    body .ilustraciones .sakura img{
+        border-radius: 37px;
+        position: absolute;
+        width: 270px;
+        height: 270px;
+        top: 100px;
+        left: 50px;
+    }
+    body .ilustraciones .bsh img{
+        border-radius: 37px;
+        position: absolute;
+        width: 270px;
+        height: 270px;
+        top: 400px;
+        left: 50px;
+
+    }
+    body .ilustraciones .moko img{
+        border-radius: 37px;
+        position: absolute;
+        width: 270px;
+        height: 270px;
+        top: 700px;
+        left: 50px;
+    }
+    body .ilustraciones .pez img{
+        border-radius: 10px;
+        position: absolute;
+        width: 270px;
+        height: 300px;
+        top: 1000px;
+        left: 50px;
+    }
+    body .ilustraciones .flor img{
+        border-radius: 37px;
+        position: absolute;
+        width: 270px;
+        height: 270px;
+        top: 1350px;
+        left: 50px;
+
+    }
+    body .ilustraciones .love img{
+        border-radius: 50px;
+        position: absolute;
+        top: 1650px;
+        left: 50px;
+        width: 300px;
+        height: 270px;
+    }
+}

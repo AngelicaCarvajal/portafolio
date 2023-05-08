@@ -1,0 +1,1170 @@
+body .menuprincipal{
+    background: #fed0d0;
+    box-sizing: border-box;
+    padding: 0px 60px;
+    
+}
+body .menuprincipal .logo {
+    justify-content: space-between;
+    display: flex;
+    width:100%;
+    color: #000000;
+    border-radius: 5px;
+    align-items: center;
+    
+
+}
+body .menuprincipal .logo a{
+        justify-content: space-between;
+        display: flex;
+        width:100%;
+        color: #000000;
+        align-items: center;
+}
+body .menuprincipal .menu{
+    display: none;
+}
+body .menuprincipal .menuitems {
+    align-items: center;
+    display: flex;
+    border: 0;
+    border-radius: 5px;
+    color: #000000;
+
+}
+
+body .menuprincipal .items {
+    display: flex;
+    gap: 50px;
+}
+
+body .menuprincipal .menuitems .items p {
+    padding: 8px 25px;
+    color: #000000;
+    width: 100px;
+}
+
+body .yo img{
+    position: absolute;
+    width: 400px;
+    height: 450px;
+    border-radius: 47px;
+    left: 550px;
+    top: 125px;
+}
+body .informacion{
+    background-color: #fed0d0;
+    position: absolute;
+    height: 1000px;
+    width: 1510px;
+    top: 625px;
+}
+body .informacion .aboutme{
+    position: absolute;
+    width: 921px;
+    height: 541px;
+    left: 250px;
+    top: 100px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 51px;
+    line-height: 42px;
+
+}
+
+body .informacion .info{
+    position: absolute;
+    width: 850px;
+    height: 541px;
+    left: 602px;
+    top: 100px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 42px;
+}
+body .informacion .habilidades{
+    position: absolute;
+    width: 921px;
+    height: 541px;
+    left: 250px;
+    top: 400px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 51px;
+    line-height: 42px;
+
+}
+body .informacion .infohabilidades{
+    position: absolute;
+    width: 850px;
+    height: 541px;
+    left: 602px;
+    top: 340px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 42px;
+}
+body .informacion .corazon img{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 380px;
+    left: 800px;
+}
+body .informacion .corazon2 img{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 380px;
+    left: 850px;
+}
+body .informacion .corazon3 img{
+
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 380px;
+    left: 900px;
+}
+body .informacion .corazon4 img{
+
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 380px;
+    left: 950px;
+}
+body .informacion .corazon5 img{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 380px;
+    left: 1000px;
+}
+body .informacion .corazon6 img{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 460px;
+    left: 800px;
+}
+body .informacion .corazon7 img{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 460px;
+    left: 850px;
+}
+body .informacion .corazon8 img{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 460px;
+    left: 900px;
+}
+body .informacion .corazon9 img{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 460px;
+    left: 950px;
+}
+body .informacion .corazon10 img{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 535px;
+    left: 800px;
+}
+body .informacion .corazon11 img{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 535px;
+    left: 850px;
+}
+body .informacion .corazon12 img{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 535px;
+    left: 900px;
+}
+body .informacion .corazon13 img{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 535px;
+    left: 950px;
+}
+body .informacion .idioma{
+    position: absolute;
+    width: 921px;
+    height: 541px;
+    left: 250px;
+    top: 650px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 51px;
+    line-height: 42px;
+
+}
+body .informacion .idiomas{
+    position: absolute;
+    width: 850px;
+    height: 541px;
+    left: 602px;
+    top: 630px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 42px;
+}
+body .informacion .corazon14 img{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 670px;
+    left: 800px;
+}
+body .informacion .corazon15 img{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 670px;
+    left: 850px;
+}
+body .informacion .corazon16 img{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 670px;
+    left: 900px;
+}
+body .informacion .corazon17 img{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 670px;
+    left: 950px;
+}
+body .informacion .corazon18 img{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 670px;
+    left: 1000px;
+}
+body .informacion .corazon19 img{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 750px;
+    left: 800px;
+}
+body .informacion .corazon20 img{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 750px;
+    left: 850px;
+}
+body .informacion .corazon21 img{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 750px;
+    left: 900px;
+}
+body .footer{
+
+    position: absolute;
+    top: 100px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+body .footer .face img{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 1600px;
+    left: 650px;
+}
+body .footer .twitter img{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 1600px;
+    left: 750px;
+}
+body .footer .insta img{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 1600px;
+    left: 850px;
+}
+
+@media only screen and (max-width: 1366px){
+    body .menuprincipal{
+        background: #fed0d0;
+        width: 1366px;
+    }
+    body .yo img{
+        position: absolute;
+        width: 400px;
+        height: 450px;
+        border-radius: 47px;
+        left: 500px;
+        top: 125px;
+    }
+    body .informacion{
+        background-color: #fed0d0;
+        position: absolute;
+        height: 1000px;
+        width: 1366px;
+        top: 625px;
+    }
+    body .informacion .aboutme{
+        position: absolute;
+        width: 921px;
+        height: 541px;
+        left: 150px;
+        top: 100px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 51px;
+        line-height: 42px;
+    
+    }
+    
+    body .informacion .info{
+        position: absolute;
+        width: 850px;
+        height: 541px;
+        left: 502px;
+        top: 100px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 35px;
+        line-height: 42px;
+    }
+    body .informacion .habilidades{
+        position: absolute;
+        width: 921px;
+        height: 541px;
+        left: 150px;
+        top: 400px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 51px;
+        line-height: 42px;
+    
+    }
+    body .informacion .infohabilidades{
+        position: absolute;
+        width: 850px;
+        height: 541px;
+        left: 502px;
+        top: 340px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 35px;
+        line-height: 42px;
+    }
+    body .informacion .corazon img{
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        top: 380px;
+        left: 700px;
+    }
+    body .informacion .corazon2 img{
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        top: 380px;
+        left: 750px;
+    }
+    body .informacion .corazon3 img{
+    
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        top: 380px;
+        left: 800px;
+    }
+    body .informacion .corazon4 img{
+    
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        top: 380px;
+        left: 850px;
+    }
+    body .informacion .corazon5 img{
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        top: 380px;
+        left: 900px;
+    }
+    body .informacion .corazon6 img{
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        top: 460px;
+        left: 700px;
+    }
+    body .informacion .corazon7 img{
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        top: 460px;
+        left: 750px;
+    }
+    body .informacion .corazon8 img{
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        top: 460px;
+        left: 800px;
+    }
+    body .informacion .corazon9 img{
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        top: 460px;
+        left: 850px;
+    }
+    body .informacion .corazon10 img{
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        top: 535px;
+        left: 700px;
+    }
+    body .informacion .corazon11 img{
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        top: 535px;
+        left: 750px;
+    }
+    body .informacion .corazon12 img{
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        top: 535px;
+        left: 800px;
+    }
+    body .informacion .corazon13 img{
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        top: 535px;
+        left: 850px;
+    }
+    body .informacion .idioma{
+        position: absolute;
+        width: 921px;
+        height: 541px;
+        left: 150px;
+        top: 650px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 51px;
+        line-height: 42px;
+    
+    }
+    body .informacion .idiomas{
+        position: absolute;
+        width: 850px;
+        height: 541px;
+        left: 502px;
+        top: 630px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 35px;
+        line-height: 42px;
+    }
+    body .informacion .corazon14 img{
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        top: 670px;
+        left: 700px;
+    }
+    body .informacion .corazon15 img{
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        top: 670px;
+        left: 750px;
+    }
+    body .informacion .corazon16 img{
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        top: 670px;
+        left: 800px;
+    }
+    body .informacion .corazon17 img{
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        top: 670px;
+        left: 850px;
+    }
+    body .informacion .corazon18 img{
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        top: 670px;
+        left: 900px;
+    }
+    body .informacion .corazon19 img{
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        top: 750px;
+        left: 700px;
+    }
+    body .informacion .corazon20 img{
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        top: 750px;
+        left: 750px;
+    }
+    body .informacion .corazon21 img{
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        top: 750px;
+        left: 800px;
+    }
+    body .footer{
+    
+        position: absolute;
+        top: 100px;
+        align-items: center;
+        justify-content: center;
+        flex-direction: row;
+    }
+    body .footer .face img{
+        position: absolute;
+        width: 50px;
+        height: 50px;
+        top: 1600px;
+        left: 550px;
+    }
+    body .footer .twitter img{
+        position: absolute;
+        width: 50px;
+        height: 50px;
+        top: 1600px;
+        left: 650px;
+    }
+    body .footer .insta img{
+        position: absolute;
+        width: 50px;
+        height: 50px;
+        top: 1600px;
+        left: 750px;
+    }
+}
+
+@media only screen and (max-width: 831px) {
+    body .menuprincipal{
+        background: #fed0d0;
+        width: 830px;
+    }
+    body .menuprincipal .menu{
+        display: unset;
+    }
+    body .menuprincipal .menuitems {
+        display: none;    
+    }
+    
+    body .menuprincipal .items {
+        display: none;
+    }
+    
+    body .menuprincipal .menuitems .items p {
+        display: none;
+    }
+    body .yo img{
+        position: absolute;
+        width: 400px;
+        height: 450px;
+        border-radius: 47px;
+        left: 230px;
+        top: 125px;
+    }
+    body .informacion{
+        background-color: #fed0d0;
+        position: absolute;
+        height: 1000px;
+        width: 830px;
+        top: 625px;
+    }
+    body .informacion .aboutme{
+        position: absolute;
+        width: 921px;
+        height: 541px;
+        left: 150px;
+        top: 30px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 51px;
+        line-height: 42px;
+    
+    }
+    
+    body .informacion .info{
+        position: absolute;
+        width: 550px;
+        height: 541px;
+        left: 150px;
+        top: 120px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 35px;
+        line-height: 42px;
+    }
+    body .informacion .habilidades{
+        position: absolute;
+        width: 921px;
+        height: 541px;
+        left: 150px;
+        top: 350px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 51px;
+        line-height: 42px;
+    
+    }
+    body .informacion .infohabilidades{
+        position: absolute;
+        width: 850px;
+        height: 541px;
+        left: 150px;
+        top: 440px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 35px;
+        line-height: 42px;
+    }
+    body .informacion .corazon img{
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        top: 480px;
+        left: 350px;
+    }
+    body .informacion .corazon2 img{
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        top: 480px;
+        left: 400px;
+    }
+    body .informacion .corazon3 img{
+    
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        top: 480px;
+        left: 450px;
+    }
+    body .informacion .corazon4 img{
+    
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        top: 480px;
+        left: 500px;
+    }
+    body .informacion .corazon5 img{
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        top: 480px;
+        left: 550px;
+    }
+    body .informacion .corazon6 img{
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        top: 560px;
+        left: 350px;
+    }
+    body .informacion .corazon7 img{
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        top: 560px;
+        left: 400px;
+    }
+    body .informacion .corazon8 img{
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        top: 560px;
+        left: 450px;
+    }
+    body .informacion .corazon9 img{
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        top: 560px;
+        left: 500px;
+    }
+    body .informacion .corazon10 img{
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        top: 635px;
+        left: 350px;
+    }
+    body .informacion .corazon11 img{
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        top: 635px;
+        left: 400px;
+    }
+    body .informacion .corazon12 img{
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        top: 635px;
+        left: 450px;
+    }
+    body .informacion .corazon13 img{
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        top: 635px;
+        left: 500px;
+    }
+    body .informacion .idioma{
+        position: absolute;
+        width: 921px;
+        height: 541px;
+        left: 150px;
+        top: 700px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 51px;
+        line-height: 42px;
+    
+    }
+    body .informacion .idiomas{
+        position: absolute;
+        width: 850px;
+        height: 541px;
+        left: 150px;
+        top: 790px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 35px;
+        line-height: 42px;
+    }
+    body .informacion .corazon14 img{
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        top: 830px;
+        left: 350px;
+    }
+    body .informacion .corazon15 img{
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        top: 830px;
+        left: 400px;
+    }
+    body .informacion .corazon16 img{
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        top: 830px;
+        left: 450px;
+    }
+    body .informacion .corazon17 img{
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        top: 830px;
+        left: 500px;
+    }
+    body .informacion .corazon18 img{
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        top: 830px;
+        left: 550px;
+    }
+    body .informacion .corazon19 img{
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        top: 910px;
+        left: 350px;
+    }
+    body .informacion .corazon20 img{
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        top: 910px;
+        left: 400px;
+    }
+    body .informacion .corazon21 img{
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        top: 910px;
+        left: 450px;
+    }
+    body .footer{
+    
+        position: absolute;
+        top: 100px;
+        align-items: center;
+        justify-content: center;
+        flex-direction: row;
+    }
+    body .footer .face img{
+        position: absolute;
+        width: 50px;
+        height: 50px;
+        top: 1600px;
+        left: 290px;
+    }
+    body .footer .twitter img{
+        position: absolute;
+        width: 50px;
+        height: 50px;
+        top: 1600px;
+        left: 390px;
+    }
+    body .footer .insta img{
+        position: absolute;
+        width: 50px;
+        height: 50px;
+        top: 1600px;
+        left: 490px;
+    }
+}
+@media only screen and (max-width: 360px) {
+    body .menuprincipal{
+        background: #fed0d0;
+        width: 360px;
+    }
+    body .menuprincipal .menu{
+        display: unset;
+    }
+    body .menuprincipal .menuitems {
+        display: none;    
+    }
+    
+    body .menuprincipal .items {
+        display: none;
+    }
+    
+    body .menuprincipal .menuitems .items p {
+        display: none;
+    }
+    body .yo img{
+        position: absolute;
+        width: 340px;
+        height: 450px;
+        border-radius: 47px;
+        left: 17px;
+        top: 125px;
+    }
+    body .informacion{
+        background-color: #fed0d0;
+        position: absolute;
+        height: 1000px;
+        width: 360px;
+        top: 625px;
+    }
+    body .informacion .aboutme{
+        position: absolute;
+        width: 921px;
+        height: 541px;
+        left: 80px;
+        top: 30px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 51px;
+        line-height: 42px;
+    
+    }
+    
+    body .informacion .info{
+        position: absolute;
+        width: 300px;
+        height: 541px;
+        left: 30px;
+        top: 120px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 42px;
+    }
+    body .informacion .habilidades{
+        position: absolute;
+        width: 921px;
+        height: 541px;
+        left: 60px;
+        top: 350px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 51px;
+        line-height: 42px;
+    
+    }
+    body .informacion .infohabilidades{
+        position: absolute;
+        width: 850px;
+        height: 541px;
+        left: 150px;
+        top: 440px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 42px;
+    }
+    body .informacion .corazon img{
+        width: 20px;
+        height: 20px;
+        position: absolute;
+        top: 500px;
+        left: 80px;
+    }
+    body .informacion .corazon2 img{
+        width: 20px;
+        height: 20px;
+        position: absolute;
+        top: 500px;
+        left: 130px;
+    }
+    body .informacion .corazon3 img{
+    
+        width: 20px;
+        height: 20px;
+        position: absolute;
+        top: 500px;
+        left: 180px;
+    }
+    body .informacion .corazon4 img{
+    
+        width: 20px;
+        height: 20px;
+        position: absolute;
+        top: 500px;
+        left: 230px;
+    }
+    body .informacion .corazon5 img{
+        width: 20px;
+        height: 20px;
+        position: absolute;
+        top: 500px;
+        left: 280px;
+    }
+    body .informacion .corazon6 img{
+        width: 20px;
+        height: 20px;
+        position: absolute;
+        top: 560px;
+        left: 105px;
+    }
+    body .informacion .corazon7 img{
+        width: 20px;
+        height: 20px;
+        position: absolute;
+        top: 560px;
+        left: 155px;
+    }
+    body .informacion .corazon8 img{
+        width: 20px;
+        height: 20px;
+        position: absolute;
+        top: 560px;
+        left: 205px;
+    }
+    body .informacion .corazon9 img{
+        width: 20px;
+        height: 20px;
+        position: absolute;
+        top: 560px;
+        left: 255px;
+    }
+    body .informacion .corazon10 img{
+        width: 20px;
+        height: 20px;
+        position: absolute;
+        top: 625px;
+        left: 105px;
+    }
+    body .informacion .corazon11 img{
+        width: 20px;
+        height: 20px;
+        position: absolute;
+        top: 625px;
+        left: 155px;
+    }
+    body .informacion .corazon12 img{
+        width: 20px;
+        height: 20px;
+        position: absolute;
+        top: 625px;
+        left: 205px;
+    }
+    body .informacion .corazon13 img{
+        width: 20px;
+        height: 20px;
+        position: absolute;
+        top: 625px;
+        left: 255px;
+    }
+    body .informacion .idioma{
+        position: absolute;
+        width: 921px;
+        height: 541px;
+        left: 100px;
+        top: 630px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 51px;
+        line-height: 42px;
+    
+    }
+    body .informacion .idiomas{
+        position: absolute;
+        width: 850px;
+        height: 541px;
+        left: 150px;
+        top: 720px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 42px;
+    }
+    body .informacion .corazon14 img{
+        width: 20px;
+        height: 20px;
+        position: absolute;
+        top: 785px;
+        left: 80px;
+    }
+    body .informacion .corazon15 img{
+        width: 20px;
+        height: 20px;
+        position: absolute;
+        top: 785px;
+        left: 130px;
+    }
+    body .informacion .corazon16 img{
+        width: 20px;
+        height: 20px;
+        position: absolute;
+        top: 785px;
+        left: 180px;
+    }
+    body .informacion .corazon17 img{
+        width: 20px;
+        height: 20px;
+        position: absolute;
+        top: 785px;
+        left: 230px;
+    }
+    body .informacion .corazon18 img{
+        width: 20px;
+        height: 20px;
+        position: absolute;
+        top: 785px;
+        left: 280px;
+    }
+    body .informacion .corazon19 img{
+        width: 20px;
+        height: 20px;
+        position: absolute;
+        top: 845px;
+        left: 130px;
+    }
+    body .informacion .corazon20 img{
+        width: 20px;
+        height: 20px;
+        position: absolute;
+        top: 845px;
+        left: 180px;
+    }
+    body .informacion .corazon21 img{
+        width: 20px;
+        height: 20px;
+        position: absolute;
+        top: 845px;
+        left: 230px;
+    }
+    body .footer{
+    
+        position: absolute;
+        top: 100px;
+        align-items: center;
+        justify-content: center;
+        flex-direction: row;
+    }
+    body .footer .face img{
+        position: absolute;
+        width: 30px;
+        height: 30px;
+        top: 1550px;
+        left: 70px;
+    }
+    body .footer .twitter img{
+        position: absolute;
+        width: 30px;
+        height: 30px;
+        top: 1550px;
+        left: 170px;
+    }
+    body .footer .insta img{
+        position: absolute;
+        width: 30px;
+        height: 30px;
+        top: 1550px;
+        left: 270px;
+    }
+}
